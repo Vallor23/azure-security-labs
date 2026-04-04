@@ -3,7 +3,6 @@
 This repository documents my hands-on practice for Microsoft Azure Security Engineer (AZ-500).
 
 ## Skills Covered
-- Azure AD (Identity & Access Management)
 - RBAC (Role-Based Access Control)
 - Network Security (NSGs, Firewalls)
 - Monitoring & Logging
