@@ -82,7 +82,7 @@ its contents. Access must be explicitly granted. This enforces
 zero-trust principles — nothing is trusted by default.
 
 **Screenshot:** [Access Policy Configured]
-![Access Policy](screenshots/02-access-policy.png)
+![Access Policy](screenshots/kv2.PNG)
 
 ---
 
