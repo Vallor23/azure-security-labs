@@ -32,7 +32,8 @@ Azure SQL Database (Always Encrypted)
         ↓  SSN + BirthDate columns encrypted/decrypted
 C# Console Application
 ```
-
+**Screenshot:** [Architecture]
+![Architecture](screenshots/kv1.PNG)
 ---
 
 ## Services Used
